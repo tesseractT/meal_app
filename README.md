@@ -1,8 +1,17 @@
 # my_shop
 
-A new Flutter project.
+This simple shopping application:
 
-## Getting Started
+*users can sign up
+*users can login to created accounts
+*users can add products to favorites
+*users can place orders/save orders to account
+*users can logout
+*animations added for smooth users experience
+*users can edit/add/delete products
+
+
+
 
 This project is a starting point for a Flutter application.
 
