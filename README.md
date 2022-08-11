@@ -1,14 +1,6 @@
 # my_shop
 
-This simple shopping application:
-
-*users can sign up
-*users can login to created accounts
-*users can add products to favorites
-*users can place orders/save orders to account
-*users can logout
-*animations added for smooth users experience
-*users can edit/add/delete products
+This simple meal application:
 
 
 
